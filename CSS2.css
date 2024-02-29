@@ -1,0 +1,42 @@
+.box {
+    width: 30%;
+    height: 100px;
+    margin: 1%;
+    float: left;
+    border: 3px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+h1 {
+    color: forestgreen;
+}
+
+h2 {
+    color: #008080;
+}
+
+p {
+    color: rgb(70,130,180);
+}
+
+#SPAN1 {
+    color: red;
+}
+
+#SPAN2 {
+    color: blue;
+}
+
+#SPAN3 {
+    color: purple;
+}
+
+#DIV1 { border-color: blue; }
+#DIV2 { border-color: red; }
+#DIV3 { border-color: green; }
+#DIV4 { border-color: yellow; }
+#DIV5 { border-color: purple; }
+#DIV6 { border-color: orange; }
